@@ -11,5 +11,12 @@ public class SchedulerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SchedulerApplication.class, args);
 	}
-
+   
+	
+	//After Task
+	 public String afternoon()
+	 {
+		 
+		 return "taskCOmpleted";
+	 }
 }
