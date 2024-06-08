@@ -17,11 +17,19 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+
 		<!-- https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/jstl -->
 <dependency>
     <groupId>javax.servlet.jsp.jstl</groupId>
     <artifactId>jstl</artifactId>
     <version>1.2</version>
+
+		<!-- https://mvnrepository.com/artifact/org.eclipse.dirigible/dirigible-database-h2 -->
+<dependency>
+    <groupId>org.eclipse.dirigible</groupId>
+    <artifactId>dirigible-database-h2</artifactId>
+    <version>10.5.6</version>
+
 </dependency>
 
 				<dependency>
