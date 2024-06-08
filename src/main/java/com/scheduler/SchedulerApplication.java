@@ -19,4 +19,12 @@ public class SchedulerApplication {
 		 
 		 return "taskCOmpleted";
 	 }
+
+	
+	//First Task
+	public String demo()
+	{
+		return "Welcome";
+	}
+	
 }
