@@ -41,5 +41,10 @@ public class UserService {
 		logger.info("Users :{}", allUser);
 
 	}
-
+//This is commit by the developer
+	public void developerCode()
+	{
+		
+		System.out.println("This is developer code");
+	}
 }
