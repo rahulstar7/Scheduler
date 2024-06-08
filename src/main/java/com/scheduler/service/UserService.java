@@ -41,5 +41,9 @@ public class UserService {
 		logger.info("Users :{}", allUser);
 
 	}
-
+	//THis is written by the QA team
+public void testingTeam()
+{
+	System.out.println("This is the QA or tester");
+}
 }
