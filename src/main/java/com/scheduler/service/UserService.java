@@ -12,7 +12,12 @@ import org.springframework.stereotype.Service;
 
 import com.scheduler.dao.User;
 import com.scheduler.model.Users;
-
+/*
+ * Feature -B5454,
+ * rahul rathod[151545451]
+ * version 1.1
+ * 
+ */
 @Service
 public class UserService {
 
