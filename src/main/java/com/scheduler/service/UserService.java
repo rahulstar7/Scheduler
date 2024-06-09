@@ -95,7 +95,12 @@ public class UserService {
 		System.out.println("This is developer code");
 	}
 	
-		
+	// This is commit by the developer
+	public void devCodeScenariosConflictsDemoS() {
+
+		System.out.println("This is developer code");
+	}
+			
 	
 	
 
