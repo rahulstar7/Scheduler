@@ -41,6 +41,7 @@ public class UserService {
 		logger.info("Users :{}", allUser);
 
 	}
+
 	//THis is written by the QA team
 public void testingTeam()
 {
@@ -54,5 +55,11 @@ public void QATeam()
 System.out.println("This is the QA or tester");
 }
 
+//This is commit by the developer
+	public void developerCode()
+	{
+		
+		System.out.println("This is developer code");
+	}
 
 }
