@@ -64,6 +64,18 @@ public class UserService {
 	}
 
 	// This is commit by the developer
+	public void qaCode() {
+
+		System.out.println("This is developer code");
+	}
+
+	// This is commit by the developer
+	public void qaCodeConflicts() {
+
+		System.out.println("This is developer code");
+	}
+
+	// This is commit by the developer
 	public void devCode() {
 
 		System.out.println("This is developer code");
