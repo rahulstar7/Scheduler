@@ -47,6 +47,14 @@ public void testingTeam()
 {
 	System.out.println("This is the QA or tester");
 }
+
+
+//THis is written by the QA team
+public void QATeam()
+{
+System.out.println("This is the QA or tester");
+}
+
 //This is commit by the developer
 	public void developerCode()
 	{
