@@ -42,12 +42,12 @@ public class UserService {
 
 	}
 
-	// THis is written by the QA team
+	
 	public void testingTeams() {
 		System.out.println("This is the QA or tester");
 	}
 
-//THis is written by the QA team
+
 	public void QATeam() {
 		System.out.println("This is the QA or tester");
 	}
@@ -89,6 +89,13 @@ public class UserService {
 	}
 	
 	
+	// This is commit by the developer
+	public void devCodeScenariosConflictsDemo() {
+
+		System.out.println("This is developer code");
+	}
+	
+		
 	
 	
 

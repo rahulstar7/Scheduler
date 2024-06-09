@@ -27,4 +27,10 @@ public class SchedulerApplication {
 		return "Welcome";
 	}
 	
+	//First Task
+		public String demos()
+		{
+			return "Welcome";
+		}
+		
 }
